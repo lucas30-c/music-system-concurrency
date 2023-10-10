@@ -1,0 +1,415 @@
+.signup {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .signup .div {
+    background-color: #ffffff;
+    height: 832px;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .signup .text-wrapper {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 335px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 41px;
+    width: 164px;
+  }
+  
+  .signup .have-an-account-with {
+    color: transparent;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 335px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 97px;
+    width: 456px;
+  }
+  
+  .signup .span {
+    color: #312f35;
+  }
+  
+  .signup .text-wrapper-2 {
+    color: #5d5fef;
+    font-weight: 700;
+  }
+  
+  .signup .overlap {
+    height: 61px;
+    left: 333px;
+    position: absolute;
+    top: 247px;
+    width: 640px;
+  }
+  
+  .signup .text-wrapper-3 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100px;
+  }
+  
+  .signup .text-wrapper-4 {
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    height: 61px;
+    padding-left: 19px;
+    width: 640px;
+    border: none;
+    background: transparent;
+    outline: none;
+    z-index: 10;
+    display: block;
+    margin-top: 38px;
+    position: relative;
+    
+    
+  }
+  
+  .signup .rectangle {
+    border: 2px solid;
+    border-color: var(--iris-60);
+    border-radius: 10px;
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 38px;
+    width: 640px;
+  }
+  
+  .signup .text-wrapper-5 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 322px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 362px;
+    width: 100px;
+  }
+  
+  .signup .text-wrapper-6 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 336px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 480px;
+    width: 94px;
+  }
+  
+  .signup .text-wrapper-7 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 337px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 593px;
+    width: 184px;
+  }
+  
+  .signup .overlap-group {
+    border-radius: 10px;
+    height: 61px;
+    left: 333px;
+    position: absolute;
+    top: 521px;
+    width: 640px;
+  }
+  
+  .signup .text-wrapper-8 {
+    /* color: #cdcdcd; */
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    /* left: 17px; */
+    letter-spacing: 0;
+    line-height: 30px;
+    height: 61px;
+    padding-left: 19px;
+    width: 640px;
+    border: none;
+    background: transparent;
+    position: relative;
+    diaplay: block;
+    outline: none;    
+    z-index: 10;
+  }
+  
+  .signup .rectangle-2 {
+    border: 2px solid;
+    border-color: var(--iris-60);
+    border-radius: 10px;
+    height: 61px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 640px;
+  }
+  
+  .signup .overlap-2 {
+    border-radius: 10px;
+    height: 61px;
+    left: 335px;
+    position: absolute;
+    top: 637px;
+    width: 640px;
+  }
+  
+  .signup .text-wrapper-9 {
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 30px;
+    height: 61px;
+    padding-left: 19px;
+    width: 640px;
+    border: none;
+    background: transparent;
+    outline: none;
+    z-index: 10;
+    display: block;
+    position: relative;
+    
+  }
+  
+  .signup .overlap-3 {
+    border-radius: 10px;
+    height: 61px;
+    left: 333px;
+    position: absolute;
+    top: 399px;
+    width: 640px;
+  }
+  
+
+
+.signup .text-wrapper-10 {
+  /* color: #cdcdcd; */
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px; 
+  height: 61px; 
+  /* text-align: left; */
+  padding-left: 19px;
+  width: 640px;
+  border: none;
+  background: transparent;
+  outline: none;
+  z-index: 10; 
+  display: block; 
+  position: relative;
+  /* border: 2px solid black;
+  border-radius: 10px; */
+}
+
+.signup .text-wrapper-10::placeholder {
+  color: #cdcdcd;
+  text-align: left;
+}
+
+.signup .text-wrapper-10:focus::placeholder {
+  color: transparent;
+}
+
+.signup .text-wrapper-8::placeholder {
+  color: #cdcdcd;
+  text-align: left;
+}
+
+.signup .text-wrapper-8:focus::placeholder {
+  color: transparent;
+}
+
+.signup .text-wrapper-4::placeholder {
+  color: #cdcdcd;
+  text-align: left;
+}
+
+.signup .text-wrapper-4:focus::placeholder {
+  color: transparent;
+}
+
+.signup .text-wrapper-9::placeholder {
+  color: #cdcdcd;
+  text-align: left;
+}
+
+.signup .text-wrapper-9:focus::placeholder {
+  color: transparent;
+}
+
+
+  
+  .signup .frame {
+    z-index: 10;
+    align-items: center;
+    /* background-color: var(--iris-80); */
+    background-color: #5d5fef;
+    border-radius: 10px;
+    display: flex;
+    gap: 10px;
+    height: 61px;
+    justify-content: center;
+    left: 335px;
+    padding: 10px 20px;
+    position: absolute;
+    top: 717px;
+    width: 129px;
+    cursor: pointer;
+  }
+  
+  .signup .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .signup .text-wrapper-12 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 311px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 141px;
+    width: 216px;
+  }
+  
+  .signup .text-wrapper-13 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 379px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 191px;
+    width: 166px;
+  }
+  
+  .signup .text-wrapper-14 {
+    color: var(--variable-collection-black);
+    font-family: "Inter", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 603px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 191px;
+    width: 166px;
+  }
+  
+  .signup .line {
+    height: 11px;
+    left: 938px;
+    position: absolute;
+    top: 234px;
+    width: 19px;
+  }
+  
+  .signup .rectangle-3 {
+    border: 2px solid;
+    border-color: var(--iris-60);
+    border-radius: 5px;
+    height: 26px;
+    left: 337px;
+    position: absolute;
+    top: 192px;
+    width: 26px;
+  }
+  
+  .signup .rectangle-4 {
+    border: 2px solid;
+    border-color: var(--iris-60);
+    border-radius: 5px;
+    height: 26px;
+    left: 561px;
+    position: absolute;
+    top: 192px;
+    width: 26px;
+  }
+  
+
+  .signup-checkbox-label {
+    display: flex;
+    align-items: center;
+    cursor: pointer; 
+    position: relative; 
+}
+
+.signup-checkbox {
+    margin-right: 10px;  
+}
+
+.signup-checkbox {
+  z-index: 2;
+  opacity: 0;  
+  position: absolute;
+  cursor: pointer;
+}
+
+.rectangle-3, .rectangle-4 {
+  transition: background-color 0.2s; 
+}
+
+.signup-checkbox:checked + span + .rectangle-3,
+.signup-checkbox:checked + span + .rectangle-4 {
+  border-color: var(--iris-80); 
+  background-color: #989898;
+}
+

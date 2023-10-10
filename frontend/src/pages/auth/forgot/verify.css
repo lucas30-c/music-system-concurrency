@@ -1,0 +1,51 @@
+.forgot-password-verify {
+  width: 60%;
+  margin: 0 auto;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.forgot-password-verify .notice-1 {
+  margin-bottom: 50px;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.forgot-password-verify .notice-2 {
+  line-height: 35px;
+  font-size: 25px;
+}
+
+.forgot-password-verify .notice-3 {
+  font-size: 25px;
+  margin-bottom: 50px;
+}
+
+.forgot-password-verify .inputs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.forgot-password-verify .verify-btn {
+  margin-top: 50px;
+}
+
+.forgot-password-verify .resend-btn {
+  margin-top: 30px;
+}
+
+.forgot-password-verify .inputs .MuiOtpInput-Box {
+  width: 486px;
+}
+
+.forgot-password-verify .MuiOtpInput-TextField > div {
+  width: 56px;
+}
+
+.forgot-password-verify .MuiOtpInput-TextField-3 {
+  margin-right: 50px;
+}

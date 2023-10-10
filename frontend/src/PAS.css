@@ -1,0 +1,51 @@
+
+.PAS-container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #ffffff;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner-container {
+    position: relative; /* Added this to position the button absolutely within this container */
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px; /* Added this to create space at the bottom for the button */
+    border: 2px solid rgba(142, 142, 142, 0.606);
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);
+    background-color: var(--iris-light3);
+    width: 55%;
+    height: 55%;
+    overflow: hidden;
+}
+
+
+.instruction-text {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 55px;  /* Add some margin to separate it from the content below */
+}
+
+
+.music-player-container, .paint-app-container {
+    padding-left: 10px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+.music-player-container {
+    flex: 0.3;
+    border-right: 1px solid #ccc;
+}
+
+.paint-app-container {
+    padding-left: 200px;
+    flex: 1.7;
+}
